@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use or adapt this work, please cite it as below."
+type: software
+title: "Book to Audio Edition: Prompts and Scripts for Listening-Ready Books"
+abstract: "Prompts and Python scripts that convert PDF and EPUB books, born-digital or scanned, into clean text-only editions for text-to-speech listening. The workflow removes running heads, page numbers, and note markers, announces chapters, rewrites tables as sentences, and collects notes at the end of the book."
+authors:
+  - family-names: Eaton
+    given-names: Lance
+version: 1.0.0
+date-released: "2026-10-29"
+license: MIT
+repository-code: "https://github.com/leaton79/book-to-audiobook"
+url: "https://github.com/leaton79/book-to-audiobook"
+keywords:
+  - text-to-speech
+  - accessibility
+  - audiobook
+  - higher education
+  - generative AI
+  - prompt engineering
